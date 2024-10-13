@@ -1,0 +1,1 @@
+import{i as t}from"./app-C8dmRubb.js";import{R as a,V as o,P as s,a2 as n,O as f}from"./_commonjsHelpers-Ct9cd0Qw.js";const c={__name:"DropdownLink",props:{href:{type:String,required:!0}},setup(e){return(r,i)=>(a(),o(f(t),{href:e.href},{default:s(()=>[n(r.$slots,"default")]),_:3},8,["href"]))}};export{c as _};

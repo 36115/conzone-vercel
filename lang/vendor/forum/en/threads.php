@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'actions' => 'Post Actions',
+    'created' => 'Post Created',
+    'confirm_perma_delete' => 'Are you sure you want to permanently delete this post?|Are you sure you want to permanently delete these posts?',
+    'confirm_restore' => 'Are you sure you want to restore this post?|Are you sure you want to restore these posts?',
+    'confirm_delete' => 'Are you sure you want to delete this post?|Are you sure you want to delete these posts?',
+    'confirm_lock' => 'Are you sure you want to lock this post?||Are you sure you want to lock these posts?',
+    'confirm_unlock' => 'Are you sure you want to unlock this post?||Are you sure you want to unlock these posts?',
+    'confirm_pin' => 'Are you sure you want to pin this post?||Are you sure you want to pin these posts?',
+    'confirm_unpin' => 'Are you sure you want to unpin this post?||Are you sure you want to unpin these posts?',
+    'delete' => 'Delete this post',
+    'deleted' => 'Post deleted|Posts deleted',
+    'lock' => 'Lock',
+    'locked' => 'Locked',
+    'marked_read' => 'All posts have been marked as read',
+    'new_thread' => 'New Post',
+    'newest' => 'Newest Post',
+    'none_found' => 'No posts found',
+    'perma_delete' => 'Permanently delete post|Permanently delete posts',
+    'perma_deleted' => 'Post permanently deleted|Posts permanently deleted',
+    'pin' => 'Pin',
+    'pinned' => 'Pinned',
+    'post_the_first' => 'Post the first!',
+    'recent' => 'Recent Posts',
+    'restored' => 'Post restored|Posts restored',
+    'select_all' => 'Select all posts',
+    'thread' => 'Post|Posts',
+    'updated' => 'Post updated|Posts updated',
+    'unlock' => 'Unlock',
+    'unpin' => 'Unpin',
+    'unread_updated' => 'Unread & Updated Posts',
+    'view' => 'View thread',
+
+];

@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{R as o,L as e,a2 as n}from"./_commonjsHelpers-Ct9cd0Qw.js";const s={},a={class:"btn btn-primary w-100 rounded-pill"};function c(t,_){return o(),e("button",a,[n(t.$slots,"default")])}const m=r(s,[["render",c]]);export{m as P};
